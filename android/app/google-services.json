@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262164119698",
+    "firebase_url": "https://scholar-8bc23.firebaseio.com",
+    "project_id": "scholar-8bc23",
+    "storage_bucket": "scholar-8bc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262164119698:android:7110c7ede0be91d5dba64b",
+        "android_client_info": {
+          "package_name": "com.example.scholar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262164119698-2p1mkes6srrc7rfpad22mtoveoitf04f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBykEGYjfydlFUGxVxOItCOuFx1ZCAwDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262164119698-2p1mkes6srrc7rfpad22mtoveoitf04f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
